@@ -1,4 +1,6 @@
 /**
+ * File: CS106A_GraphicsProgramHouse.java
+ * ----------------------------
  * Generates a simple picture of a house with a peaked roof,
  * two windows, and a door with a circular doorknob.
  */
