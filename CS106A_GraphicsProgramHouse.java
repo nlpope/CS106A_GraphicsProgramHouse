@@ -54,9 +54,15 @@ public class CS106A_GraphicsProgramHouse extends GraphicsProgram
 	}
 	
 	
+	private void createDoor()
+	{
+		// windows & doorknob will depend on door's 
+		// position so making that first
+	}
+	
+	
 	private void createWindows()
 	{
 		
-	}
 	}
 }
