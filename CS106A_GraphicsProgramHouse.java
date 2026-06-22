@@ -1,5 +1,6 @@
 /**
- * 
+ * Generates a simple picture of a house with a peaked roof,
+ * two windows, and a door with a circular doorknob.
  */
 
 import acm.program.*;
