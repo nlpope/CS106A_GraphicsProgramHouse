@@ -19,6 +19,8 @@ public class CS106A_GraphicsProgramHouse extends GraphicsProgram
 	{
 		createBase();
 		createRoof();
+		createDoor();
+		createWindows();
 	}
 	
 	
